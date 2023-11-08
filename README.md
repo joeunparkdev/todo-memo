@@ -1,7 +1,7 @@
 # todo-memo
 
 # 프로젝트 소개
-- Node.js와 express를 활용한 **TODO MEMO 서버**를 제작
+- Swift, Node.js와 express를 활용한 **TODO MEMO 서버**를 제작
 
 # 기술 스택
 1. **웹 프레임워크**: Node.js에서 가장 대표적인 웹 프레임워크인 **Express.js**를 사용합니다.
